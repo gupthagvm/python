@@ -1,0 +1,4 @@
+i=int(input("enter a number))
+  for x in range(0,1,i)
+  x=x+1;
+print(x) 
